@@ -1,0 +1,49 @@
+{
+  "conta": {
+    "saldo": 1080
+  },
+  "transacoes": [
+    {
+      "valor": 10,
+      "transacao": "saque",
+      "data": "10/08/2020",
+      "id": 1
+    },
+    {
+      "transacao": "deposito",
+      "valor": "20",
+      "data": "26/09/2020",
+      "id": 2
+    },
+    {
+      "transacao": "deposito",
+      "valor": "200",
+      "data": "16/06/2022",
+      "id": 3
+    },
+    {
+      "transacao": "saque",
+      "valor": "20",
+      "data": "16/06/2022",
+      "id": 4
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "17/06/2022",
+      "id": 5
+    },
+    {
+      "transacao": "",
+      "valor": 0,
+      "data": "17/06/2022",
+      "id": 6
+    },
+    {
+      "transacao": "",
+      "valor": "100",
+      "data": "17/06/2022",
+      "id": 7
+    }
+  ]
+}
